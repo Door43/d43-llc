@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[llc:home|Door43 (llc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-llc|d43-llc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-llc/archive/master.zip|d43-llc.zip]]
+
+**Recent Changes**
+{{changes>ns = llc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/llc|Ethnologue data]]
+
